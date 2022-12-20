@@ -1,0 +1,64 @@
+
+body {
+  padding: 50px 50px 50px 50px;
+  margin: 100px 100px 100px 100px;
+  border-radius: 5px 10px;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.App {
+  display: ruby-text-container;
+  justify-content: center;
+  align-items: center;
+  height: center;
+  text-align: center;
+  
+}
+
+.card  {
+  box-shadow: 5px 5px 10px rgba(236, 233, 233, 0.3);
+  width: center;
+  height: center;
+  padding: 10px;
+  border-radius: 30px;
+  background: rgb(237, 240, 243);
+  margin:50px
+  
+  
+}
+.card div {
+  text-align: right;
+  margin:20px;
+}
+.card ul {
+  list-style: none;
+  padding: 0;
+
+}
+
+.card h1 i {
+  margin-bottom: 50px;
+  
+  
+}
+
+.card div li i {
+  margin-right: 20px;
+ 
+ 
+}
+
+.card button {
+  
+  border: 50px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  cursor: pointer;
+  
+  
+}
