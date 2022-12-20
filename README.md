@@ -2,4 +2,4 @@
 link del project 
 https://github.com/adepj/entrega1
 
-imagen del project  ![image](https://user-images.githubusercontent.com/115369156/208582047-8b34f456-303f-4f3e-9830-4b0445d98b2f.png)
+![image](https://user-images.githubusercontent.com/115369156/208585272-b582a6b6-d8a9-4235-9c24-22810d94fb6c.png)
